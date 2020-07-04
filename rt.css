@@ -1,0 +1,21 @@
+#bold
+{
+	font-weight: bold;
+}
+body
+{
+	font-family: 'Piedra', cursive;
+}
+#shape
+{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	display: none;
+	position: relative;
+}
+#hd
+{
+	width: 310px;
+	margin: 0 auto;
+}
